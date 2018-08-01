@@ -1,0 +1,6 @@
+body {background: url(../images/1.jpg);}
+#root {transform:rotate(45deg);}
+.wrap {width: 100%;}
+.color{
+    width: 300px;
+}
